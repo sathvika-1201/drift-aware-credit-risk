@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+mlflow
+evidently
+prefect
+fastapi
+uvicorn
+streamlit
+matplotlib
+seaborn
+shap
+joblib
+pydantic
+python-dotenv
+pytest
